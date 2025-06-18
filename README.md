@@ -1,7 +1,7 @@
 <h1 align="center"> <!--<img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img>--> Hi , I'm Bhavya</h1>
 <h3 align="center">I am a Game Developer</h3>
 
-- 🔭 I’m deeply passionate about building immersive game worlds and designing
+- 🔭 I’m deeply passionate about building immersive game worlds and designing.
   
 - 🎮 Building immersive gameplay experiences Unreal Engine and Unity  
 
