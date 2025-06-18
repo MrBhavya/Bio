@@ -20,9 +20,9 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity logo" />
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal logo" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender logo" />
-  <img src="https://skillicons.dev/icons?i=Cs" height="40" alt="Cs logo" />
-  <img src="https://skillicons.dev/icons?i=Cpp" height="40" alt="Cpp logo" />
-  <img src="https://skillicons.dev/icons?i=C" height="40" alt="C logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="Cs logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="Cpp logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
